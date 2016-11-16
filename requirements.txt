@@ -12,3 +12,6 @@ SQLAlchemy
 PyMySQL
 markdown
 mock
+pytz
+pyyaml
+pyserial
