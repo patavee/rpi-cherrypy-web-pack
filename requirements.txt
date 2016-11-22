@@ -15,3 +15,4 @@ mock
 pytz
 pyyaml
 pyserial
+pykwalify
