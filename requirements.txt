@@ -16,4 +16,4 @@ pytz
 pyyaml
 pyserial
 pyusb
-pykwalify
+pykwalify==1.5.2
